@@ -1,4 +1,4 @@
 GitRepo
 ========
 
-Misc files to Git
+Misc files
