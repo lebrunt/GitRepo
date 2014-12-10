@@ -1,5 +1,5 @@
 #!/bin/bash
-# Tom LeBrun
+# LeBrunt
 # Mod Hist:
 # Created 121014
 # Modified
